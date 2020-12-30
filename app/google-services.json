@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88975955462",
+    "project_id": "farmerauthenticator",
+    "storage_bucket": "farmerauthenticator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88975955462:android:7f3cb92dbc0a62b92d5587",
+        "android_client_info": {
+          "package_name": "com.example.farmerauthenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88975955462-chbjajrlos216f9rm701r1ql2mitqvj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuBfNh8OKUIUcG__UUxJ_vzb3C_zRh9XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88975955462-chbjajrlos216f9rm701r1ql2mitqvj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
